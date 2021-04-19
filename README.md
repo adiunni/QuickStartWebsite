@@ -4,4 +4,4 @@ I tried to fetch image from backend to frontend but failed. Instead I fetched an
 
 This is the result I got
 
-[! Image](frontend/public/readmeimg.png)
+[Image](frontend/public/readmeimg.png)
