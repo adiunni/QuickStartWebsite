@@ -4,4 +4,10 @@ I tried to fetch image from backend to frontend but failed. Instead I fetched an
 
 This is the result I got
 
-[Image](frontend/public/readmeimg.png)
+![Image](frontend/public/readmeimg.png)
+
+## UPDATE
+
+I have been able to fetch images from backend but not quite the way imagined
+
+![Image](frontend/public/readmeimg2.png)
